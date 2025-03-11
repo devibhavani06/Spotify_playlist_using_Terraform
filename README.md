@@ -16,7 +16,7 @@ This project automates the creation of Spotify playlists using Terraform, provid
 
 
 
-📂 Project Structure
+📂 Project Structure:-
    Spotify-Terraform/
    ─> providers.tf
    ─> variables.tf
