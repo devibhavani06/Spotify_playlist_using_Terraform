@@ -9,9 +9,10 @@ This project automates the creation of Spotify playlists using Terraform, provid
 
 🛠 Tech Stack
    Terraform – Infrastructure as Code (IaC) tool.
+   HCL – Configuration language used in Terraform.
    Spotify API – For playlist creation and management.
    Git – Version control system.
-	 VS Code – Code editor for development and debugging
+   VS Code – Code editor for development and debugging.
 
 
 
