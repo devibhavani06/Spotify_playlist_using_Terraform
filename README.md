@@ -53,23 +53,23 @@ This project automates the creation of Spotify playlists using Terraform, provid
 
 
 
-📝 .gitignore
+📝 .gitignore:-
 Recommended .gitignore entries:
-*.tfstate
-*.tfstate.backup
-.terraform/
-terraform.tfvars
-*.log
+*.tfstate,
+*.tfstate.backup,
+.terraform/,
+terraform.tfvars,
+*.log,
 .env
 
 
 
 
 🚨 Troubleshooting
-Error: pathspec '.' did not match any files
-Solution: Run git rm -r --cached . followed by git add . to refresh the Git cache.
+   Error: pathspec '.' did not match any files
+   Solution: Run git rm -r --cached . followed by git add . to refresh the Git cache.
 
-Error: Spotify API authentication failure
-Solution: Double-check your Client ID and Client Secret.
+   Error: Spotify API authentication failure
+   Solution: Double-check your Client ID and Client Secret.
 
 
