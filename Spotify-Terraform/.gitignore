@@ -1,0 +1,23 @@
+# Sensitive Files
+.env
+terraform.tfvars
+
+# Terraform generated files
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+.terraform/
+
+# Ignore VSCode settings
+.vscode/
+.vscode/*
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore system-specific files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+AppData/
